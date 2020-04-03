@@ -1,2 +1,2 @@
 
-print("Hello world from init")
+print("hello World Algorithms!")
